@@ -21,3 +21,5 @@ The templates are located in the ```/templates``` directory, and you can preview
 ## Licence
 
 Code released under [the MIT license](https://github.com/dansup/bulma-templates/blob/master/LICENSE).
+
+### Ini template hackaton warung pintar
